@@ -1,4 +1,3 @@
-```markdown
 # Bus Ticket Management: PHP-Based Website Development
 
 ## Objectives
@@ -72,6 +71,3 @@ The project integrates UI design, backend development, and features:
 - Database Design: Evolving toward real-time API integration.
 - Addressing Drawbacks: Opportunities for enhancement and growth.
 - Future Evolution: User-centric improvements and optimizations.
-```
-
-This shortened version includes the main sections and key points from your original text. The title "Bus Ticket Management: PHP-Based Website Development" is made bold and the content is organized for a concise GitHub README file.
